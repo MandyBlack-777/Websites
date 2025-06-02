@@ -1,1 +1,1 @@
-First Projects created with FNB Academy/IT Varsity.
+First Project created with FNB Academy/IT Varsity.
